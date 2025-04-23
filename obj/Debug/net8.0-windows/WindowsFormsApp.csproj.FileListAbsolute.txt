@@ -1,0 +1,14 @@
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\obj\Debug\net8.0-windows\WindowsFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\obj\Debug\net8.0-windows\WindowsFormsApp.AssemblyInfoInputs.cache
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\obj\Debug\net8.0-windows\WindowsFormsApp.AssemblyInfo.cs
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\obj\Debug\net8.0-windows\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\bin\Debug\net8.0-windows\WindowsFormsApp.exe
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\bin\Debug\net8.0-windows\WindowsFormsApp.deps.json
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\bin\Debug\net8.0-windows\WindowsFormsApp.runtimeconfig.json
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\bin\Debug\net8.0-windows\WindowsFormsApp.dll
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\bin\Debug\net8.0-windows\WindowsFormsApp.pdb
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\obj\Debug\net8.0-windows\WindowsFormsApp.dll
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\obj\Debug\net8.0-windows\refint\WindowsFormsApp.dll
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\obj\Debug\net8.0-windows\WindowsFormsApp.pdb
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\obj\Debug\net8.0-windows\WindowsFormsApp.genruntimeconfig.cache
+C:\Users\MOISÉS\Desktop\WindowsFormsApp\obj\Debug\net8.0-windows\ref\WindowsFormsApp.dll
