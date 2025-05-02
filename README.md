@@ -45,7 +45,7 @@ dotnet run
 ## 🧠 Conceitos Abordados
 - Windows Forms: Interface gráfica para o aplicativo com componentes como TextBox, Button e Label.
 
-- Eventos: O evento de clique do botão btnVerificar aciona a lógica de verificação.
+- Eventos: O evento de clique do botão "btnVerificar" aciona a lógica de verificação.
 
 - Condicionais: Uso de if, else if e else para definir as condições de verificação.
 
