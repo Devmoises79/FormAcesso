@@ -31,7 +31,7 @@ Passos para rodar o projeto:
 - Importe o projeto ou abra a solução FormAcesso.
 
 - Compile o projeto e execute o aplicativo:
-- 
+  
 ```bash
 dotnet run
 ```
